@@ -1,3 +1,6 @@
+# What is Required
+Please check the document, "CTG Assignment 2020", to gain more information about the details of the assignment.
+
 Enter 1
 Take note of the values in the Public Key and Private Key
 
